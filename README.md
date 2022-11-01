@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Salunke</h1>
 <h3 align="center">A JAVA development enthusiast from India</h3>
-<p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1O25LqmI3lQwnGfP6poC-f48WNPuErnjLw&usqp=" alt="yas-18" /> </p>
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1O25LqmI3lQwnGfP6poC-f48WNPuErnjLw&usqp=" alt="yas-18" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yas-18&label=Profile%20views&color=0e75b6&style=flat" alt="yas-18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yas-18&label=Profile%20views&color=0e75b6&style=flat" alt="yas-18" /> </p>
 
 - 🌱 I’m currently learning **Java , Web Development**
 
